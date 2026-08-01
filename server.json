@@ -1,0 +1,6 @@
+{
+    "modpack_version": 2,
+    "modpack": "http://127.0.0.1:8080/modpack.mrpack",
+    "news": "https://www.bettergi.com",
+    "server": "127.0.0.1:25565"
+}
