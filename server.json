@@ -1,6 +1,6 @@
 {
-    "modpack_version": 2,
-    "modpack": "http://127.0.0.1:8080/modpack.mrpack",
-    "news": "https://www.bettergi.com",
+    "modpack_version": 3,
+    "modpack": "https://theplayer453403.github.io/CustomLauncherModpackTemplate/modpack.mrpack",
+    "news": "https://theplayer453403.github.io/CustomLauncherModpackTemplate",
     "server": "127.0.0.1:25565"
 }
